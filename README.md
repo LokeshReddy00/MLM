@@ -10,3 +10,4 @@ git clone https://github.com/anoopkunchukuttan/indic_nlp_resources.git
 
 pip install tqdm
 pip install indic-nlp-library
+pip install aiohttp
